@@ -7,3 +7,8 @@ Some Description!
 ## Subheader
 
 First Python Project
+
+## Software Requirement System 
+Functional Requirement
+
+Non-functional Requirement
